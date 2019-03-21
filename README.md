@@ -11,3 +11,4 @@ How to Setup ?
          OR
 6)Run maven install and Run as Java Application
 
+# embeddablejpaexample
